@@ -8,8 +8,8 @@
     * I wanted to print the 403 html code to see what is the real problem behind the scenes and saw that CloudFlare protection for CrisisWatch website.
 
 
-If we have this situation then we should mimic the browser behavior.
-    * The solution that I know was Selenium library.
+* If we have this situation then we should mimic the browser behavior.
+    * The solution that I knew was Selenium library.
 
 * There is one popular documentation of Selenium library to see because it is generally updating with new subprocesses.
 

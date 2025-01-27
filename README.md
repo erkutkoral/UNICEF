@@ -1,7 +1,7 @@
 # Web Scraping from CrisisWatch Tailor Made Project for UNICEF
 
 * When I first see the task, I thought it can be handled with requests and BeautifulSoup libraries from python. 
-    * If we only perform 1 page scraping with any dynamic page openings or filterings.
+    * If we only perform 1 page scraping without any dynamic page openings or filterings.
 
 * When the html_parser is runned, I got 403 html code which depicts forbidden operation. 
     * In order to move with these workflow structure the correct html code should be returned as 200.

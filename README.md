@@ -41,7 +41,7 @@ OSError: [WinError 193] %1 is not a valid Win32 application
  
 
 # Thank You. ⚓
-* Thank you for this tast, I really enjoyed while performing.
+* Thank you for this task, I really enjoyed while performing.
     * Looking forward to meet the whole team and operate together in projects.
 
 [LinkedIn](https://www.linkedin.com/in/erkutkoral/)

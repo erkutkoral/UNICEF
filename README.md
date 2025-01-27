@@ -37,6 +37,7 @@ OSError: [WinError 193] %1 is not a valid Win32 application
 * For my system I downgraded Python version that I used in my virtual environment with VS Code.
     * Was using 3.12 and downgraded to 3.10 solved this error and allowed me to get .csv file into my local directory.
     * If user of this script wants to use it after Python version downgrade, requirements.txt is provided to install specific versions of the libraries which are needed.
+    * Moreover, if we did not encounter with these local problems Docker containers could be used for this task. If needed, I could provide Dockerfile for this project too.
  
 
 # Thank You. ⚓
